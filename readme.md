@@ -1,6 +1,6 @@
 <h2>Hi, I'm <strong>Gunel Humbatova</strong></h2>
 <hr>
-<h3>I'm a Computer Science student at ASOIU. I've been interested in programming for about a year.</h3>
+<h3>I've been interested in programming for about a year. I have knowledge about C, C++, C#, NodeJS, .Net and some FrontEnd Technologies like Html, Css, JavaScript, Sass, JQuery etc. and MsSql, Microsoft Access, MongoDB. </h3>
 
 <hr>
 
@@ -61,10 +61,7 @@
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
     <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
-    <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-    <a href="#"><img alt="Microsoft Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white&style=plastic"></a>
-     <a href="#"><img alt="Microsoft Visio" src="https://img.shields.io/badge/Microsoft_Visio-3955A3?style=for-the-badgee&logo=microsoft-visio&logoColor=white&style=plastic"></a>
     <a href="#"><img alt="Microsoft PowerPoint" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white&style=plastic"></a>
     <a href="#"><img alt="Microsoft Word" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white&style=plastic"></a>
 </p>
