@@ -1,6 +1,6 @@
 <h2>Hi, I'm <strong>Gunel Humbatova</strong></h2>
 <hr>
-<h3>I've been interested in programming for about a year. I have knowledge about C, C++, C#, NodeJS, .Net and some FrontEnd Technologies like Html, Css, JavaScript, Sass, JQuery etc. and Databases like MsSql, Microsoft Access, MongoDB. </h3>
+<h3>Software Developer </h3>
 
 <hr>
 
